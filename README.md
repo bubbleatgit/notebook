@@ -5,3 +5,5 @@
 ## 目录
 
 - [日志系统](/logsystem)
+  - fluent-bit
+    - rewrite tag
